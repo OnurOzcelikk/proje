@@ -1,0 +1,31 @@
+body{
+    /*
+background-color: aqua;
+background-image: url('topkapi-sarayi-muzesi-tarihi-yarimada.jpg');
+background-repeat: no-repeat;
+background-position: right top;
+background-attachment: fixed;
+*/
+background: aqua url('topkapi-sarayi-muzesi-tarihi-yarimada.jpg') no-repeat right top;
+}
+
+p{
+    color: red;
+    background-color: indigo;
+   text-align: left;
+}
+.özelp{
+    color: blanchedalmond;
+    background-color: gold;
+    text-align: justify;
+
+}
+#pId{
+    color: darkblue;
+    background-color: chartreuse;
+    text-align: center;
+}
+a{
+    background-color: tomato;
+    text-decoration: none;
+}
